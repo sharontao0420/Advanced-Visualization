@@ -1,0 +1,70 @@
+Respondent Name,Record Time,"关于Data Portal，你的总体满意度打分为 
+(Regarding Data Portal, what's your overall satisfaction score) ？ ",请描述你给出上述评分的主要原因   (What are the main reasons for the above score)? ,你对功能实现的及时性打分为（How satisfied are you with the feature delivery speed)?,你对功能实现的质量打分为（How satisfied are you with the quality of features delivered)?,你对data portal 的用户支持满意度打分为 （How satisfied are you with user support)?,你在使用中最大痛点是哪些 （What are your biggest pain points)?
+Anonymous,2023-03-05 21:31:32 [UTC-08:00],8,搜索速度快，图片加载速度也较快,8,8,8,Other
+Anonymous,2023-03-05 21:31:58 [UTC-08:00],7,load data may be slow,8,8,8,太慢（service too slow）
+Anonymous,2023-03-05 21:36:35 [UTC-08:00],10,好用，查数据方便,10,9,10,太慢（service too slow）
+Anonymous,2023-03-05 21:37:39 [UTC-08:00],8,用户需求更新及时，日常使用比较稳定，但在使用高峰期会存在页面刷新慢，加载图片慢的情况，偶尔会出现小bug，但能及时解决问题。,9,10,10,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 21:40:12 [UTC-08:00],7,系统整体对使用者不太友好，但开发响应比较及时,5,5,5,"不稳定 （service not stable),不好用 （not easy to use)"
+Anonymous,2023-03-05 21:43:11 [UTC-08:00],7,加载慢 卡顿,6,7,6,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 21:43:33 [UTC-08:00],8,容易切页奔溃,8,8,8,不稳定 （service not stable)
+Anonymous,2023-03-05 22:04:32 [UTC-08:00],10,好用,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 22:15:43 [UTC-08:00],8,其他没什么，就是图片加载太慢,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 22:15:58 [UTC-08:00],7,图片加载卡顿,8,8,8,太慢（service too slow）
+Anonymous,2023-03-05 22:16:07 [UTC-08:00],9,图片加载会有点卡顿,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 22:16:28 [UTC-08:00],8,有卡顿,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 22:17:40 [UTC-08:00],9,图片加载卡顿,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 23:16:31 [UTC-08:00],5,经常性的卡,7,7,7,不稳定 （service not stable)
+Anonymous,2023-03-05 23:16:33 [UTC-08:00],9,好用,5,5,5,太慢（service too slow）
+Anonymous,2023-03-05 23:16:35 [UTC-08:00],5,经常性的卡,5,7,7,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:16:45 [UTC-08:00],7,没有,7,7,7,"不稳定 （service not stable),bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:17:20 [UTC-08:00],7,有时候卡,7,7,7,太慢（service too slow）
+Anonymous,2023-03-05 23:17:23 [UTC-08:00],5,每页上限少，卡顿,5,5,5,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:18:00 [UTC-08:00],10,感觉很好,10,10,10,太慢（service too slow）
+Anonymous,2023-03-05 23:18:28 [UTC-08:00],1,什么时候图片提交界面能多case分别计数？,1,1,1,不好用 （not easy to use)
+Anonymous,2023-03-05 23:18:39 [UTC-08:00],8,加载慢,8,8,8,"太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:18:49 [UTC-08:00],7,经常卡顿，建议出一个历史记录工能，崩掉了可以找回原先的数据,8,7,7,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:19:22 [UTC-08:00],5,有时候卡得离谱.,5,8,6,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:19:34 [UTC-08:00],8,网速太卡，经常卡顿,8,8,8,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:19:37 [UTC-08:00],5,看不懂,5,5,5,bug 多 （features are buggy)
+Anonymous,2023-03-05 23:19:56 [UTC-08:00],9,反应有点慢,9,9,9,太慢（service too slow）
+Anonymous,2023-03-05 23:20:34 [UTC-08:00],6,功能不齐全,5,6,6,不好用 （not easy to use)
+Anonymous,2023-03-05 23:20:34 [UTC-08:00],4,图片刷新太慢，有时候还会崩溃,4,4,4,"不稳定 （service not stable),太慢（service too slow）,不好用 （not easy to use)"
+Anonymous,2023-03-05 23:21:03 [UTC-08:00],8,卡，有时想打0分[doge],8,8,8,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:22:12 [UTC-08:00],6,还好，有时黑屏,8,8,8,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:22:21 [UTC-08:00],8,问题时不时会产生，没有得到满意的解决程度,8,8,8,不稳定 （service not stable)
+Anonymous,2023-03-05 23:23:13 [UTC-08:00],6,图片刷新的时候太慢,6,6,6,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:23:59 [UTC-08:00],7,时不时有bug 还很卡顿 功能还不够完善 要是可以开发自动统计提交图片数量的功能就好了,7,7,7,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:25:35 [UTC-08:00],6,卡 黑屏,5,6,6,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:25:49 [UTC-08:00],1,给一分是因为热爱工作。总的来说卡到要死，有黑屏还有卡屏的现象，开框卡不也卡，切屏都会卡住每次都要重新开过，大大降低工作效率和工作的心情。,5,4,5,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy),不好用 （not easy to use),Other(卡顿、白屏、黑屏)"
+Anonymous,2023-03-05 23:27:43 [UTC-08:00],10,出现问题能够及时的发现以及处理,9,9,9,太慢（service too slow）
+Anonymous,2023-03-05 23:28:09 [UTC-08:00],5,卡,5,5,5,"不稳定 （service not stable),太慢（service too slow）,bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:33:44 [UTC-08:00],6,系统不太稳定,6,7,6,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:34:04 [UTC-08:00],7,不太稳定,8,8,7,"不稳定 （service not stable),bug 多 （features are buggy),不好用 （not easy to use)"
+Anonymous,2023-03-05 23:35:02 [UTC-08:00],7,日常工作能用，仍需要改进,6,10,8,不稳定 （service not stable)
+Anonymous,2023-03-05 23:35:14 [UTC-08:00],7,希望前端页面可以更加简洁，图形化多一些；响应速度能够再快点，再稳定一些,10,8,8,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-05 23:35:26 [UTC-08:00],7,重筛时有些已筛数据过滤不掉，没有其他方法能证明原筛数据的有效性,6,6,7,不稳定 （service not stable)
+Anonymous,2023-03-05 23:37:50 [UTC-08:00],4,反应比较慢，有时候提交不了需要反复刷新网页,5,5,5,太慢（service too slow）
+Anonymous,2023-03-05 23:37:52 [UTC-08:00],9,Because I like,9,10,9,"不稳定 （service not stable),bug 多 （features are buggy)"
+Anonymous,2023-03-05 23:38:17 [UTC-08:00],5,便利功能不完善,5,5,5,"不稳定 （service not stable),太慢（service too slow）,不好用 （not easy to use)"
+Anonymous,2023-03-05 23:44:03 [UTC-08:00],8,满意,8,9,9,不稳定 （service not stable)
+Anonymous,2023-03-05 23:57:21 [UTC-08:00],8,平台比较稳定,7,8,8,Other(全英文，对于新同学不太友好)
+Anonymous,2023-03-06 00:39:34 [UTC-08:00],10,非常GOOD,10,10,10,"不稳定 （service not stable),太慢（service too slow）,不好用 （not easy to use)"
+Anonymous,2023-03-06 01:40:56 [UTC-08:00],9,感觉不错,9,9,10,不稳定 （service not stable)
+Anonymous,2023-03-06 01:41:35 [UTC-08:00],10,感觉不错,10,10,10,"不稳定 （service not stable),Other"
+Anonymous,2023-03-06 01:45:14 [UTC-08:00],8,很卡，稍微清晰的图就会卡,8,8,8,太慢（service too slow）
+Anonymous,2023-03-06 01:59:29 [UTC-08:00],8,有点卡,8,8,8,不稳定 （service not stable)
+Anonymous,2023-03-06 04:39:43 [UTC-08:00],8,卡闪，换下一页是卡好久，刷新慢,8,8,8,"不稳定 （service not stable),太慢（service too slow）"
+Anonymous,2023-03-06 11:07:26 [UTC-08:00],9,总体稳定性较好，不稳定或bug出现后响应和解决速度很快。北美加载速度比较慢。,8,9,9,太慢（service too slow）
+Anonymous,2023-03-06 11:10:11 [UTC-08:00],8,load慢，可以做的更智能,9,10,9,"太慢（service too slow）,不好用 （not easy to use)"
+Anonymous,2023-03-06 12:01:54 [UTC-08:00],8,需求实现快 用户支持及时 但是data portal有时候不稳定,10,9,10,不稳定 （service not stable)
+Anonymous,2023-03-06 15:59:38 [UTC-08:00],10,functions,10,10,10,太慢（service too slow）
+Anonymous,2023-03-06 16:59:34 [UTC-08:00],6,系统不稳定,6,6,5,"不稳定 （service not stable),bug 多 （features are buggy)"
+Anonymous,2023-03-06 17:04:17 [UTC-08:00],10,已经满足大部分的工作场景，遇到问题提需的时候也能快速响应,10,9,9,
+Anonymous,2023-03-06 18:12:13 [UTC-08:00],8,DataPortal承载了数据处理的底座和基础能力，非常方便MLE及时跟进数据并解决问题。缺憾就是可能为了尽快实现功能，在用户交互上部分操作不是很友好，但是也不影响使用。,10,10,10,不稳定 （service not stable)
+Anonymous,2023-03-07 09:50:45 [UTC-08:00],9,总体对data portal很满意，平常经常会搜索特定的数据，或者查看corner case的状况，整体都非常方便。提出的需求都能有很好的交流,7,8,9,太慢（service too slow）
+Anonymous,2023-03-07 16:13:34 [UTC-08:00],8,整体使用较为满意，但是有时会出现卡顿和刷新不出来的情况，会有一些小bug,8,8,8,"不稳定 （service not stable),bug 多 （features are buggy)"
+Anonymous,2023-03-07 17:00:59 [UTC-08:00],8,不稳定,8,8,8,不稳定 （service not stable)
+Anonymous,2023-03-07 17:15:58 [UTC-08:00],9,能够方便查到对应的数据,9,9,9,
+Anonymous,2023-03-07 17:27:13 [UTC-08:00],10,比较实用，能快速搜索想要的图片,10,8,8,不稳定 （service not stable)
+Anonymous,2023-03-07 19:43:28 [UTC-08:00],7,IPS平台经常出问题,8,7,10,"不稳定 （service not stable),bug 多 （features are buggy)"
+Anonymous,2023-03-07 19:54:03 [UTC-08:00],9,稳定,8,9,9,
